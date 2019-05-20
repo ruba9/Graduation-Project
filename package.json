@@ -1,0 +1,20 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.0",
+    "influx": "^5.0.0-alpha.4",
+    "json2csv": "^3.7.3",
+    "mongodb": "^2.2.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ruba Aburub",
+  "license": "ISC"
+}
